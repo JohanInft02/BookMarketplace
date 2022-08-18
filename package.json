@@ -1,0 +1,15 @@
+{
+  "name": "bookmarketplace",
+  "version": "0.0.1",
+  "description": "pagina venta de libros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch style.scss style.css"
+  },
+  "author": "johan",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.54.4"
+  }
+}
